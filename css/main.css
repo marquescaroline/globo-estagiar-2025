@@ -1,0 +1,36 @@
+h1, h2 { font-family: 'Oswald', sans-serif; }
+h3, h4 { font-family: 'Montserrat', sans-serif; }
+p { font-family: 'Open Sans', sans-serif; }
+
+h2 { 
+    color: #C4170C;
+    font-weight: bold;
+}
+
+h1, h2, h3 {padding-top: 10px;}
+
+p {
+    text-align: justify;
+}
+
+.author-info {
+    color: #6c757d;
+    margin-top: -10px;
+    font-weight: bold;
+}
+.author-info span {
+
+    color: #000;
+}
+.article-date {
+    margin-top: -10px;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+li {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}

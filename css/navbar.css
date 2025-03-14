@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: #C4170C;
+}
+
+.navbar-brand, .navbar-nav .nav-link, .navbar-title {
+    color: white !important;
+}
+
+.navbar-title {
+    font-size: 1.5rem;
+    -font-weight: bold;
+    flex-grow: 1;
+    text-align: center;
+}
